@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contact Us</string>
+
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_email">Enter your Email</string>
+    <string name="hint_comment">Type your comment</string>
+
+    <string name="btn_send">SEND</string>
+    <string name="btn_back">BACK</string>
+</resources>
